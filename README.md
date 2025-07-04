@@ -1,7 +1,9 @@
 # Face Emotion Recognition System
 
 A real-time emotion detection system using deep learning and OpenCV. Detects 7 basic emotions (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise) from webcam feed.
-
+## 📂 File Setup
+1. Download these files and place them in the same folder as the script:
+   - [facialemotionmodel.h5]([your_link](https://drive.google.com/file/d/1thSlLooc6AOTiWCflj3k4zK0V72FjOie/view?usp=sharing)) (model weights)
 ## 📁 File Structure
 ```
 face-emotion-recognition/
